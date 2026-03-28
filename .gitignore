@@ -1,0 +1,12 @@
+*.jsonl
+*.parquet
+*.csv
+*.zip
+
+/unsloth_compiled_cache
+/phi4-mini-phinglish-lora
+/phi4-mini-phinglish-merged
+
+/outputs
+
+/.vscode
