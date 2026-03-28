@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Kukkala"
+    given-names: "Poorna Sai Praneeth"
+  - family-names: "Kumar"
+    given-names: "Ayush"
+  - family-names: "Dhondge"
+    given-names: "Om"
+title: "Phinglish: Phi-4 Mini Fine-Tuning for Hinglish Chat"
+version: 1.0.0
+date-released: 2026-03-29
+url: "https://github.com/HighkeyPrxneeth/Phi4-Hinglish"
+
+references:
+  - type: data
+    authors:
+      - name: "Abhishek Khatri"
+    title: "Hinglish Everyday Conversations Dataset"
+    year: 2024
+    url: "https://github.com/Abhishekcr448/Hinglish-Chat-21M"
+
+  - type: software
+    authors:
+      - family-names: "von Werra"
+        given-names: "Leandro"
+      - family-names: "Belkada"
+        given-names: "Younes"
+      - family-names: "Tunstall"
+        given-names: "Lewis"
+      - family-names: "Beeching"
+        given-names: "Edward"
+      - family-names: "Thrush"
+        given-names: "Tristan"
+      - family-names: "Lambert"
+        given-names: "Nathan"
+      - family-names: "Huang"
+        given-names: "Shengyi"
+      - family-names: "Rasul"
+        given-names: "Kashif"
+      - family-names: "Gallouédec"
+        given-names: "Quentin"
+    title: "TRL: Transformer Reinforcement Learning"
+    year: 2020
+    publisher:
+      name: "GitHub"
+    url: "https://github.com/huggingface/trl"
